@@ -90,7 +90,7 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 * All activities must be completed on
-  [PrairieLearn](https://prairielearn.engr.illinois.edu/pl/).
+  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/169375).
   Emailed code will not be accepted.
 * All assignments should be turned in on PrairieLearn.
 * Late assignments
