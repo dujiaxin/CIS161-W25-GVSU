@@ -6,13 +6,14 @@ Instructor: Jiaxin Du
 Office:  D-2-240 MAK
 
 Office Hours: 
-  * Wednesdays 9:30am - 11:00am
-  * Thursday 9:30am - 11:00am
+  * Tuesday 4:00pm - 5:00pm
+  * Thursday 4:00pm - 5:00pm
+  * Wednesday 4:00pm - 5:00pm (at the Student Success Center MAK A-1-101)
 
 Contact:
 
 * [Github discussion](https://github.com/dujiaxin/CIS161-W25-GVSU/discussions) **preferred**
-* [dujia@gvsu.edu](mailto:dujia@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Github to post your questions
+* [dujia@gvsu.edu](mailto:dujia@gvsu.edu?subject=[CIS161]) in almost all cases use Github to post your questions
 
 ## Course Description
 Computational science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
@@ -42,7 +43,7 @@ will open them automatically in CoLab.
 ## Course Objectives
 1. Introduce computer science:
    * Learn simple and structured data types, program control structures, and logic.
-   * Perform problem analysis, algorithm design, implementation in a high-level language.
+   * Perform problem analysis, algorithm design, and implementation in a high-level language.
    * Write programs that employ selection, repetition, and functions and that use libraries of numerical and scientific utilities
 2. Introduce computational science:
    * Understand the field of study concerned with using computers to analyze, mathematically model, simulate, and solve problems in various scientific disciplines
