@@ -4,7 +4,7 @@
 
 * [Syllabus](syllabus.md)
 * [Github](https://github.com/dujiaxin/CIS161-W25-GVSU) -- also [FAQ about Github](github-discussion-faq.md)
-* [PrairieLearn](https://us.prairielearn.com/pl/course_instance/158155/) - log-in
+* [PrairieLearn](https://us.prairielearn.com/pl/course_instance/169375) - log-in
   using "Google" and use your GVSU gmail account
 * [The "official" python tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Python for Applied Computing Github by Professor Erin Carrier](https://github.com/dujiaxin/python-for-applied-computing)
@@ -25,8 +25,8 @@ schedule are tentative and subject to change.
 
 | Week  | Date          | Topics                                        | Special Notes                          | Activity                          |
 |-------|---------------|-----------------------------------------------|----------------------------------------|-----------------------------------|
-| 01    | 01/06 - 01/10 | Introduction, variables, operators, expressions | [Course Entry Survey](https://docs.google.com/forms/d/e/1FAIpQLSfyzrvIjmTodrTNYqdB45xn5IsQAygHAJ1QGTRxTgQFgPFaYg/viewform?usp=sf_link)| Week 1 activity <br> Week 1 lab  |
-| 02    | 01/13 - 01/17 | Notebooks, comments, functions |                                        | Week 2 activity <br> Week 2 lab  |
+| 01    | 01/06 - 01/10 | [Introduction, variables, operators, expressions](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487993/) | [Course Entry Survey](https://docs.google.com/forms/d/e/1FAIpQLSfyzrvIjmTodrTNYqdB45xn5IsQAygHAJ1QGTRxTgQFgPFaYg/viewform?usp=sf_link)| [Week 1 activity](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487954/) <br> [Week 1 lab](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487968/)  |
+| 02    | 01/13 - 01/17 | [Notebooks, comments, functions](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487994/) |                                        | [Week 2 activity](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487957/) <br> [Week 2 lab](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487972/)  |
 | 03    | 01/20 - 01/24 | Conditionals, math, built-in functions         |                                        | Week 3 activity <br> Optional extra Week 3 activity <br> Week 3 lab |
 | 04    | 01/27 - 01/31 | Iteration                                      |     | Week 4 activity <br> Week 4 lab <br> Practice Quiz |
 | 05    | 02/03 - 02/07 | Random module                                  | Exam 1 (Tuesday and Thursday)         | Week 5 activity - optional <br> Week 5 lab |
