@@ -33,12 +33,12 @@ schedule are tentative and subject to change.
 | 06    | 02/10 - 02/14 | Lists                                          |                                        | Week 6 activity <br> Week 6 lab  |
 | 07    | 02/17 - 02/21 | References, strings                            |                                        | Week 7 activity <br> Week 7 lab  |
 | 08    | 02/24 - 02/28 | Random module with lists, files                |                                        | Week 8 activity <br> Week 8 lab  |
-| Break | 03/02 - 03/09 | Spring Break                                   |   Project ideas due Mar 10 @ 11:59pm   |                                   |
-| 09    | 03/10 - 03/13 | Tuples                                         |                                        | Week 9 activity <br> Week 9 lab  |
+| Break | 03/02 - 03/09 | Spring Break                                   |                                        |                                   |
+| 09    | 03/10 - 03/13 | Tuples                                         |   Project ideas due Mar 12 @ 11:59pm  | Week 9 activity <br> Week 9 lab  |
 | 10    | 03/17 - 03/21 | Dictionaries                                   |                                        | Week 10 activity <br> Week 10 lab |
-| 11    | 03/24 - 03/28 |                      | Exam 2 (Tuesday and Thursday)         |                       |
+| 11    | 03/24 - 03/28 |                      | Exam 2 (Tuesday)         |                       |
 | 12    | 03/31 - 04/04 | Visualization (matplotlib)                                    |     Project check-in due Apr 1 @ 11:59pm    | Week 11 lab      |
-| 13    | 04/07 - 04/11 | Numpy <br> CSV module, error in computational science, numpy wrap-up      |    Week 12 activity <br> Lab 12                                    |                                   |
+| 13    | 04/07 - 04/11 | Numpy <br> CSV module, error in computational science, numpy wrap-up      |                                 |        Week 12 activity <br> Lab 12|
 | 14    | 04/14 - 04/18 | Scipy, applications                            |                                        |                                   |
 | 15    | 04/21 - 04/25 | Finals week                                    | Course Projects Due / Presentations Monday, Apr 20 | |
 
