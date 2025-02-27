@@ -34,7 +34,7 @@ schedule are tentative and subject to change.
 | 07    | 02/17 - 02/21 | References, strings                            |                                        | Week 7 activity <br> Week 7 lab  |
 | 08    | 02/24 - 02/28 | Random module with lists, files                |                                        | Week 8 activity <br> Week 8 lab  |
 | Break | 03/02 - 03/09 | Spring Break                                   |                                        |                                   |
-| 09    | 03/10 - 03/13 | Tuples                                         |   Project ideas due Mar 12 @ 11:59pm  | Week 9 activity <br> Week 9 lab  |
+| 09    | 03/10 - 03/13 | Tuples                                         |   Project ideas due Mar 12 @ 11:59pm  | Week 9 activity <br> Week 9 lab  - optional|
 | 10    | 03/17 - 03/21 | Dictionaries                                   |                                        | Week 10 activity <br> Week 10 lab |
 | 11    | 03/24 - 03/28 |                      | Exam 2 (Tuesday)         |                       |
 | 12    | 03/31 - 04/04 | Visualization (matplotlib)                                    |     Project check-in due Apr 1 @ 11:59pm    | Week 11 lab      |
