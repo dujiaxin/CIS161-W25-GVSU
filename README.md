@@ -40,5 +40,5 @@ schedule are tentative and subject to change.
 | 12    | 03/31 - 04/04 | Visualization (matplotlib)                                    |     Project check-in due Apr 1 @ 11:59pm    | Week 11 lab      |
 | 13    | 04/07 - 04/11 | Numpy <br> CSV module, error in computational science, numpy wrap-up      |                                 |        Week 12 activity <br> Lab 12|
 | 14    | 04/14 - 04/18 | Scipy, applications                            |                                        |                                   |
-| 15    | 04/21 - 04/25 | Finals week                                    | Course Projects Due / Presentations Monday, Apr 20 | |
+| 15    | 04/21 - 04/25 | Finals week                                    | Course Projects Due / Presentations Thursday, April 24, 2:00 pm - 3:50 pm| |
 
