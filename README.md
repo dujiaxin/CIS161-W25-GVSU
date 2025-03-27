@@ -37,7 +37,7 @@ schedule are tentative and subject to change.
 | 09    | 03/10 - 03/13 | Tuples                                         |   Project ideas due Mar 12 @ 11:59pm  | Week 9 activity <br> Week 9 lab  - optional|
 | 10    | 03/17 - 03/21 | Dictionaries                                   |                                        | Week 10 activity <br> Week 10 lab |
 | 11    | 03/24 - 03/28 |                      | Exam 2 (Tuesday) <br> Guest lecture (Array of Engineers, Thursday)       |                       |
-| 12    | 03/31 - 04/04 | Visualization (matplotlib)                                    |     Project check-in due Apr 1 @ 11:59pm    | Week 11 lab      |
+| 12    | 03/31 - 04/04 | Visualization (matplotlib)                                    |     Project check-in due Apr 1 @ 11:59pm <br> [Exam redo](https://us.prairielearn.com/pl/course_instance/169375/instructor/assessment/2487983/questions)  | Week 11 lab      |
 | 13    | 04/07 - 04/11 | Numpy <br> CSV module, error in computational science, numpy wrap-up      |                                 |        Week 12 activity <br> Lab 12|
 | 14    | 04/14 - 04/18 | Scipy, applications                            |                                        |                                   |
 | 15    | 04/21 - 04/25 | Finals week                                    | Course Projects Due / Presentations Thursday, April 24, 2:00 pm - 3:50 pm| |
